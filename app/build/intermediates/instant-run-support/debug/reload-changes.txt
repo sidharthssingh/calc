@@ -1,0 +1,8 @@
+CHANGED,E:\android-studio-projects\Calkulator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\calkulator\R$style$override.class
+CHANGED,E:\android-studio-projects\Calkulator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\calkulator\R$id$override.class
+CHANGED,E:\android-studio-projects\Calkulator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\calkulator\R$string$override.class
+CHANGED,E:\android-studio-projects\Calkulator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\calkulator\R$override.class
+CHANGED,E:\android-studio-projects\Calkulator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\android-studio-projects\Calkulator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\calkulator\R$drawable$override.class
+CHANGED,E:\android-studio-projects\Calkulator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\calkulator\R$layout$override.class
+CHANGED,E:\android-studio-projects\Calkulator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\calkulator\R$menu$override.class

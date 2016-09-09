@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android-studio-projects\\Calkulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\calc_icon.png",
+        "source": "E:\\android-studio-projects\\Calkulator\\app\\src\\main\\res\\drawable-mdpi\\calc_icon.png"
+    },
+    {
+        "merged": "E:\\android-studio-projects\\Calkulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\android-studio-projects\\Calkulator\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
